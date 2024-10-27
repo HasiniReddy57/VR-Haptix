@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=B1 Old Footprint=FP-S2B-XH-A-1_LF_SN-MFG New Footprint=JST-B2B-PH-K-S_V
+Change Component Footprint: Designator=B2 Old Footprint=FP-S2B-XH-A-1_LF_SN-MFG New Footprint=JST-B2B-PH-K-S_V
+Change Component Comment : Designator=B1 Old Comment=S2B-XH-A-1(LF)(SN) New Comment=B2B-PH-K-S(LF)(SN)
+Change Component Comment : Designator=B2 Old Comment=S2B-XH-A-1(LF)(SN) New Comment=B2B-PH-K-S(LF)(SN)
+Change Managed Component Library Link : Designator=B1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=FB300247-4FF6-405B-A9F6-0646A381AC53 New ItemGUID=FD174A37-B421-4486-9338-F5547CC76FC8 Old RevisionGUID=65AB5778-3987-4EA5-8D4E-78609CE40826 New RevisionGUID=EFBB6044-7C73-413E-B65B-D511BE090736
+Change Managed Component Library Link : Designator=B2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=FB300247-4FF6-405B-A9F6-0646A381AC53 New ItemGUID=FD174A37-B421-4486-9338-F5547CC76FC8 Old RevisionGUID=65AB5778-3987-4EA5-8D4E-78609CE40826 New RevisionGUID=EFBB6044-7C73-413E-B65B-D511BE090736
+Change component parameters: Designator = "B1" ("B1"); Footprint = "FP-S2B-XH-A-1_LF_SN-MFG"; UniqueID = "\PMHSFCWG" ("\PMHSFCWG")
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/B2B-PH-K-S%28LF%29%28SN%29-JST-datasheet-8324864.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Nov-08"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No of Positions"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Change component parameters: Designator = "B2" ("B2"); Footprint = "FP-S2B-XH-A-1_LF_SN-MFG"; UniqueID = "\QMOFPCPP" ("\QMOFPCPP")
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/B2B-PH-K-S%28LF%29%28SN%29-JST-datasheet-8324864.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Nov-08"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No of Positions"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
