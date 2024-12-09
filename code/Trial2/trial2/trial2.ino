@@ -2,8 +2,8 @@
 #include <Adafruit_DRV2605.h>
 #include <WiFi.h>
 
-const char* ssid = "MMM Lab";
-const char* password = "90557866";
+const char* ssid = "*****";
+const char* password = "*****";
 
 // Static IP configuration
 IPAddress local_IP(192,168,0,101);    // Set a unique static IP address for this ESP32
