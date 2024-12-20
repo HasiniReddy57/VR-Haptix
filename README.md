@@ -19,4 +19,4 @@ The project is designed for standalone environments, ensuring it runs independen
 
 ### Credits
 
-Developed and maintained by [Hasini Patlolla](mailto:hpatloll@uci.edu).
+VR Environment developed and maintained by [Hasini Patlolla](mailto:hpatloll@uci.edu).
